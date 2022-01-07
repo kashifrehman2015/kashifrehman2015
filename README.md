@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kashifrehman2015
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in smart grid, Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science related projects
 - 📫 How to reach me kashif.rehman@riphah.edu.pk
